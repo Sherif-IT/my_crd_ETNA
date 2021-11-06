@@ -1,5 +1,5 @@
 ##
-## ETNA PROJECT, 
+## ETNA PROJ, 
 ## Makefile
 ##
 
