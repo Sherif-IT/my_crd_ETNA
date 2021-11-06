@@ -1,0 +1,5 @@
+Shell script used for randomly generating test files for the program
+Generation can be long when reaching millions of lines
+Takes 3 arguments.
+Use:
+./make_testfile.sh [range of keys] [number of lines] [name of file to output to]
